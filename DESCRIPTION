@@ -1,7 +1,7 @@
 Package: xps
 Type: Package
 Title: Import XPS-ESCA Data
-Version: 0.1.0.9000
+Version: 0.1.1.9000
 Author: Taha Ahmed
 Maintainer: Taha Ahmed <taha@chepec.se>
 Description: Rudimentary importer of XPS-ESCA data into R dataframe.

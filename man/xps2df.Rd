@@ -18,6 +18,9 @@ dataframe with
     + y        : num
 }
 \description{
-Read the normalised and calibrated data from ASCII text-file
-containing intensities, and calculate energy steps.
+Import ASCII text-file with one or more intervals of XPS data,
+where each interval (transition) specifies a description,
+x-start (binding energy), x-step, and number of rows.
+These ASCII files commonly use the *.asc extension, but may use
+other extensions.
 }
